@@ -1,0 +1,1 @@
+"use strict";!function(t){t(document).ready(function(){t("#masthead h1").fitText(.9,{minFontSize:"27px",maxFontSize:"72px"}),t(".title").fitText(.9,{minFontSize:"27px",maxFontSize:"68px"}),t("#my-name-is-my-name, #not-found").fitText(.8,{minFontSize:"36px"}),t(".post .post-title").fitText(.8),t(".swipebox").swipebox()})}(jQuery);
