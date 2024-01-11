@@ -13,3 +13,9 @@ From looking through the code, this site depends on:
 - jQuery (from Google's CDN)
 - Adobe Fonts (formerly Typekit)
 - Google Analytics
+
+## Screenshots
+
+![Homepage](./images/ftb-screenshot-01.jpg)
+
+![Project Page](./images/ftb-screenshot-02.jpg)
